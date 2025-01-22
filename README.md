@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
-  // 아이콘 포멧 = <img src="http://img.shields.io/badge/이름-색상코드?style=flat-square&logo=아이콘이름&logoColor=글자색상"/> 
+  // 아이콘 포멧 = <img src="http://img.shields.io/badge/이름-색상코드?style=flat-square&logo=아이콘이름&logoColor=글자색상"/> </a>
   <img src="http://img.shields.io/badge/C Shap-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> 
 </div>
 
