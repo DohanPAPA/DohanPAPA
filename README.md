@@ -10,6 +10,8 @@ Welcome to my KeunHo GitHub
 <br>
 <br>
 
+<a href="링크"><img src="위에있는뱃지코드"/></a>
+
   <!-- 주석
   아이콘 포멧 = <img src="http://img.shields.io/badge/이름-색상코드?style=flat-square&logo=아이콘이름&logoColor=글자색상"/>
   -->
