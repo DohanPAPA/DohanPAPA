@@ -3,14 +3,12 @@
 
 
 <div align="center">
-Welcome to my KeunHo GitHub
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome to my KeunHo GitHub&fontSize=90" />
 </div>
 <br>
 <br>
 <br>
 <br>
-
-<a href="링크"><img src="위에있는뱃지코드"/></a>
 
   <!-- 주석
   아이콘 포멧 = <img src="http://img.shields.io/badge/이름-색상코드?style=flat-square&logo=아이콘이름&logoColor=글자색상"/>
