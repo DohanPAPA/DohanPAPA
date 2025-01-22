@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
-  <img src="http://img.shields.io/badge/C#-00599C?style=flat-square&logo=html5&logoColor=black"/> 
+  <img src="http://img.shields.io/badge/C Shap-00599C?style=flat-square&logo=html5&logoColor=black"/> 
 </div>
 
  Welcome to my KeunHo GitHub
