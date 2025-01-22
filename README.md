@@ -1,11 +1,10 @@
 ## Hi there 👋
 
 <div align="center">
-  <img src="http://img.shields.io/badge/CSHAP-C SVC?style=flat-square&logo=html5&logoColor=black"/>
-  Welcome to my KeunHo GitHub
+  <img src="http://img.shields.io/badge/C#-DDD?style=flat-square&logo=html5&logoColor=black"/> 
 </div>
 
-
+ Welcome to my KeunHo GitHub
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
