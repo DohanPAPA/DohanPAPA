@@ -3,9 +3,13 @@
 Welcome to my KeunHo GitHub
 
 <div align="center">
-  // 아이콘 포멧 = <img src="http://img.shields.io/badge/이름-색상코드?style=flat-square&logo=아이콘이름&logoColor=글자색상"/>
-  <br>
+  <!-- 주석
+  아이콘 포멧 = <img src="http://img.shields.io/badge/이름-색상코드?style=flat-square&logo=아이콘이름&logoColor=글자색상"/>
+  -->
+
   <img src="http://img.shields.io/badge/C shap-00599C?style=flat-square&logo=C&logoColor=white"/> 
+  <br>
+  <img src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=black">
 </div>
 
 
