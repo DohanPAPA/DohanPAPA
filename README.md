@@ -6,7 +6,8 @@ Welcome to my KeunHo GitHub
   <!-- 주석
   아이콘 포멧 = <img src="http://img.shields.io/badge/이름-색상코드?style=flat-square&logo=아이콘이름&logoColor=글자색상"/>
   -->
-  
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DohanPAPA&layout=compact)</>
   <img src="http://img.shields.io/badge/C shap-00599C?style=flat-square&logo=C&logoColor=white"/> 
   <br>
   <img src="https://img.shields.io/badge/opencv-5C3EE8?style=flat-square&logo=opencv&logoColor=black">
@@ -16,7 +17,7 @@ Welcome to my KeunHo GitHub
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DohanPAPA&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DohanPAPA&layout=compact)
+
 
 
 <!--
