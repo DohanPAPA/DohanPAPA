@@ -1,11 +1,14 @@
 ## Hi there 👋
 
+Welcome to my KeunHo GitHub
+
 <div align="center">
-  // 아이콘 포멧 = <img src="http://img.shields.io/badge/이름-색상코드?style=flat-square&logo=아이콘이름&logoColor=글자색상"/> </a>
+  // 아이콘 포멧 = <img src="http://img.shields.io/badge/이름-색상코드?style=flat-square&logo=아이콘이름&logoColor=글자색상"/>
+  <br>
   <img src="http://img.shields.io/badge/C Shap-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> 
 </div>
 
- Welcome to my KeunHo GitHub
+ 
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
