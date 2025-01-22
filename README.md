@@ -1,9 +1,11 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=KeunHo Github&fontSize=60" />
+  <br>
+  ----
 </div>
 <br>
---------------------------------------------------------------------------------------------------------------------------------------
+
 <br>
   <!-- 주석
   아이콘 포멧 = <img src="http://img.shields.io/badge/이름-색상코드?style=flat-square&logo=아이콘이름&logoColor=글자색상"/>
