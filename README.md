@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
+  https://img.shields.io/badge/-C%23-000000?logo=Csharp&style=flat
   Welcome to my KeunHo GitHub
 </div>
 
