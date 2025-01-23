@@ -42,6 +42,7 @@ Mail   : jtk6283@gmail.com <img src="https://img.shields.io/badge/Gmail-D14836?s
   <br>
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">                 <!-- Visual Sutio -->
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">     <!-- Visual Studio Code -->
+  <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black">                   <!-- NotePad++ -->
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DohanPAPA&show_icons=true&theme=radical)
