@@ -5,8 +5,8 @@
 </div>
 
 Name   : KeunHo Kim <br>
-Mobile : 010-4426-6283 <br>
-mail   : jtk6283@gmail.com <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>  <br>
+Mobile : 010-****-6283 <br>
+Mail   : jtk6283@gmail.com <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>  <br>
 
 ----
 <br>
