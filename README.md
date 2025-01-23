@@ -4,6 +4,10 @@
   <br>
 </div>
 
+Name   : KeunHo Kim <br>
+Mobile : 010-4426-6283 <br>
+mail   : jtk6283@gmail.com <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>  <br>
+
 ----
 <br>
 
@@ -29,9 +33,15 @@
   <br>
   I’m currently Studying...
   <br>
-  <img src="http://img.shields.io/badge/C shap-00599C?style=flat-square&logo=C&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/opencv-5C3EE8?style=flat-square&logo=opencv&logoColor=black">
+  
+  <!-- Badges -->
+  <img src="http://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white"/>                                             <!-- C -->
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>                                   <!-- C# -->
+  <img src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white"/>                                  <!-- Python -->
+  <img src="https://img.shields.io/badge/opencv-5C3EE8?style=flat-square&logo=opencv&logoColor=black">                                   <!-- OpenCV -->
   <br>
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">                 <!-- Visual Sutio -->
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">     <!-- Visual Studio Code -->
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DohanPAPA&show_icons=true&theme=radical)
