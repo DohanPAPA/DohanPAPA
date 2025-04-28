@@ -27,9 +27,9 @@ Mail   : jtk6283@gmail.com <img src="https://img.shields.io/badge/Gmail-D14836?s
 -   2024.01 ~ 2024.07 : MLCC 초음파 검사기 Vision SW
 
 📚 Project : 리빙케어
--   2019.04 ~ 2019.05 : SK Hynix HTC DEMO 온도검증
--   2019.07 ~ 2020.08 : 삼성DSR 16CH Paltier Temp Control
--   2020.04 ~ 2020.06 : SK Hynix TC RACK 8,16,32Para
+-   2019.04 ~ 2019.05 : HTC DEMO 온도검증
+-   2019.07 ~ 2020.08 : 16CH Paltier Temp Control
+-   2020.04 ~ 2020.06 : TC RACK 8,16,32Para
 
 
 ---
